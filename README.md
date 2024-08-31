@@ -1,6 +1,8 @@
 # CoastalAdventureRentals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+This is an example of an Angular project that mostly utilizes standalone components.  Also an example of connecting to a simple API hosted locally.
+Basic e-commerce platform functionality including displaying products, adding products to a cart and calculating total etc. in cart.
 
 ## Development server
 
